@@ -2,6 +2,12 @@
 
 <html>
     <head>
+        <meta author="Patrik Šimunič" />
+        <meta charset="UTF-8" />
+        <meta name="keywords" content="programmer,web,developer,design" />
+        <meta name="description" content="" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+
         <title>Patrik Šimunič</title>
         
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.css" />
