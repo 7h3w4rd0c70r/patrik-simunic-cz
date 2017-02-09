@@ -40,7 +40,7 @@
                 <h4 class="ui horizontal divider inverted header">
                     <i class="call icon"></i> Contact
                 </h4>
-                <div class="ui grid">
+                <div class="ui stackable grid">
                     <div class="equal width row">
                         <div class="column">
                             IČ CZ...<br>
