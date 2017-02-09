@@ -17,7 +17,9 @@
         <article>
             <div class="ui text container">
             <div class="ui inverted segment">
+            <h2 class="ui header">
             <i class="cubes icon"></i>Under construction...
+            </h2>
             </div>
             </div>
         </article>
