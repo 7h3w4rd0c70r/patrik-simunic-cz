@@ -34,9 +34,10 @@
         </article>
         <footer class="ui inverted segment" id="footer">
             <div class="ui text container">
-                <p>
+                <h2 class="ui inverted header">
+                    <img class="ui circular image" src="img/profilepic.png">
                     Patrik Šimunič
-                </p>
+                </h2>
                 <h4 class="ui horizontal divider inverted header">
                     <i class="call icon"></i> Contact
                 </h4>
